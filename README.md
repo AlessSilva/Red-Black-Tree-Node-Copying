@@ -1,4 +1,4 @@
-# Simple Red-Black Tree with Node Copying Persistence Technique (Python implementation)  
+# Red-Black Tree with Node Copying Persistence Technique (Python implementation)  
 
 ## Operations:
 *INC value* -> Add value to Red-Black Tree  
